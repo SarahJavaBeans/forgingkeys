@@ -1,0 +1,8 @@
+CONFIG_KEY	CONFIG_VALUE
+compendium_api_key	YOUR_API_KEY
+compendium_api_pass	YOUR_API_PASS
+compendium_api_max_requests_per_second	25
+vault_api_max_page_size	25
+vault_api_max_requests_per_second	25
+dok_api_key	YOUR_API_KEY
+dok_api_max_requests_per_second	25
